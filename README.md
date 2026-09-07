@@ -1,4 +1,4 @@
-# Benjamín Álvarez Williams — Bime
+# Benjamín Álvarez Williams — Bimee
 
 **Building things that matter.**
 
