@@ -1,16 +1,27 @@
-## Hi there 👋
+# Benjamín Álvarez Williams — Bime
 
-<!--
-**Bimee/Bimee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building things that matter.**
 
-Here are some ideas to get you started:
+Freelance web developer from Argentina. I build fast, maintainable web
+experiences for clients and self-directed projects — from WooCommerce
+stores to game-server tooling and infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working under **BIME Studio**.
+
+### Stack
+
+**Frontend** · JavaScript · React · Next.js · HTML · CSS
+**Backend & CMS** · PHP · WordPress · WooCommerce · Node.js
+**Infra & tooling** · Linux · Git · SSH · MySQL
+
+### Featured work
+
+- **[Project name](https://link)** — one-line description of what it does and the stack.
+- **[Project name](https://link)** — one-line description.
+- **[Project name](https://link)** — one-line description.
+
+### Contact
+
+- Portfolio · [tu-dominio.com](https://tu-dominio.com)
+- Email · your@email.com
+- LinkedIn · [/in/tu-perfil](https://linkedin.com/in/tu-perfil)
